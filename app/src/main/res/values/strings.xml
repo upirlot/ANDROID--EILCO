@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SpaceXApp</string>
+    <string name="rockets">Rockets</string>
+    <string name="launches">Launches</string>
+    <string name="ships">Ships</string>
+    <string name="capsule">Capsule</string>
+    <string name="next_launch">Next Launch</string>
+    <string name="latest_launch">Latest Launch</string>
+</resources>
